@@ -4,10 +4,9 @@
   "private": "true",
   "ignore": [
     ".gitignore",
-    "README.md",
-    "angular"
+    "README.md"
   ],
-  "dependencies": {
+  "dev-dependencies": {
     "angular": "1.5.7"
   }
 }
