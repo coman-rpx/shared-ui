@@ -4,7 +4,8 @@
   "private": "true",
   "ignore": [
     ".gitignore",
-    "README.md"
+    "README.md",
+    "angular"
   ],
   "dependencies": {
     "angular": "1.5.7"
